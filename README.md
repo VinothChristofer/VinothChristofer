@@ -1,6 +1,5 @@
 👋 Hi, I’m @VinothChristofer
 - 👀 I’m interested in Backend software development and more into Ruby on Rails & python as programming languages
-- 🌱 I’m currently learning ember.js to equip myself as a full-stack dev
 - 💞️ I’m looking to collaborate on exciting, welcoming, active open source projects
 - 📫 Reach me through vinothchristofer@gmail.com
 
